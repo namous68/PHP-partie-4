@@ -22,12 +22,12 @@ Faire une fonction qui prend trois paramètres : **le nom, le prénom et l'âge 
 "Bonjour" + **nom** + **prénom** + ",tu as" + **age** + "ans".
 
 ## Exercice 7
-Faire une fonction qui prend deux paramètres : **l'âge et le genre d'une personne**. Le genre peut être :
+Faire une fonction qui prend deux paramètres : **l'âge et le genre d'une perVous êtes un homme et vous êtes majeursonne**. Le genre peut être :
 - Homme
 - Femme  
 
 La fonction doit renvoyer en fonction des paramètres :
-- **Vous êtes un homme et vous êtes majeur**
+- ****
 - **Vous êtes un homme et vous êtes mineur**
 - **Vous êtes une femme et vous êtes majeur**
 - **Vous êtes une femme et vous êtes mineur**
